@@ -1,0 +1,71 @@
+===========================
+  PROMPT ENGINEERING FOR CODING – CHEAT SHEET
+===========================
+
+📌 1. Write a Function
+Write a [language] function that [describe the task]. 
+Use clear variable names and include inline comments.
+
+Example:
+Write a Python function that takes a list of integers and returns a list of even numbers.
+
+---
+
+📌 2. Explain Code
+Explain what this code does step-by-step in simple language.
+[PASTE CODE]
+
+---
+
+📌 3. Refactor Code
+Refactor this code to make it more [readable / efficient / Pythonic]. Keep the logic the same.
+[PASTE CODE]
+
+---
+
+📌 4. Convert Between Languages
+Convert the following [source language] code to [target language]. Keep the structure and logic equivalent.
+[PASTE CODE]
+
+---
+
+📌 5. Debug Code
+There’s a bug in this code. Find and fix it, then explain the solution.
+[PASTE CODE]
+
+---
+
+📌 6. Write Unit Tests
+Write unit tests for the following function using [pytest / unittest]. Include edge cases.
+[PASTE CODE]
+
+---
+
+📌 7. Show Alternatives
+Show 2 or 3 different ways to implement [functionality] in [language]. Include pros and cons.
+
+---
+
+📌 8. Optimize Algorithm
+Optimize this function to reduce time complexity. Explain the original and new time complexities.
+[PASTE CODE]
+
+---
+
+📌 9. Explain Error
+I'm getting this error: "[PASTE ERROR]". Here's the code. What does it mean and how do I fix it?
+[PASTE CODE]
+
+---
+
+📌 10. Generate Boilerplate
+Generate the boilerplate code for a [framework] REST API with a GET and POST endpoint. Use best practices.
+
+---
+
+💡 BONUS: Combine Prompts with Role Instructions
+You are a senior [language] developer. [Instruction].
+
+Example:
+You are a senior Python developer. Refactor the code for clarity and performance, and explain what you changed.
+
